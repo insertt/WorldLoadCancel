@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "world-load-cancel",
+  "version": "${version}",
+
+  "name": "WorldLoadCancel",
+  "description": "Add ability to cancel world load",
+  "authors": [
+    "insertt"
+  ],
+  "contact": {
+    "sources": "https://github.com/insertt/WorldLoadCancel"
+  },
+
+  "license": "MIT",
+  "icon": "assets/wlc/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+  },
+  "mixins": [
+    "wlc.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  }
+}
