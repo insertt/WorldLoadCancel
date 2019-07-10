@@ -9,7 +9,8 @@
     "insertt"
   ],
   "contact": {
-    "sources": "https://github.com/insertt/WorldLoadCancel"
+    "sources": "https://github.com/insertt/WorldLoadCancel",
+    "issues": "https://github.com/insertt/WorldLoadCancel/issues"
   },
 
   "license": "MIT",
